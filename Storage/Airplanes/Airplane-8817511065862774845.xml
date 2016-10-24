@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airplane airplaneId="-8817511065862774845">
+    <serialNumber>RA-47697</serialNumber>
+    <model>Ан-24РВ</model>
+    <destination>Брянск</destination>
+    <releaseDate>1972</releaseDate>
+    <operator>Псков-Авиа</operator>
+</Airplane>

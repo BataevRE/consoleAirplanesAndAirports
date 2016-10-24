@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airplane airplaneId="-8869465886188019906">
+    <serialNumber>RA-64051</serialNumber>
+    <model>Ту-204С(Е)</model>
+    <destination>Хабаровск</destination>
+    <releaseDate>2010</releaseDate>
+    <operator>Трансаэро - ТСО</operator>
+</Airplane>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airplane airplaneId="-7881293906596141806">
+    <serialNumber>VQ-BRY</serialNumber>
+    <model>Embraer ERJ-195SR</model>
+    <destination>Барселона</destination>
+    <releaseDate>2008</releaseDate>
+    <operator>СарАвиа</operator>
+</Airplane>

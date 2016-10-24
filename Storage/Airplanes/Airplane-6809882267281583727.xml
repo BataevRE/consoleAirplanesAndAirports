@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airplane airplaneId="-6809882267281583727">
+    <serialNumber>RA-42370</serialNumber>
+    <model>Як-42Д</model>
+    <destination>Красноярск</destination>
+    <releaseDate>1989</releaseDate>
+    <operator>КрасАвиа</operator>
+</Airplane>
